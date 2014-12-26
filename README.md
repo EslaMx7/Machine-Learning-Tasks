@@ -40,7 +40,7 @@ have you seen any blood ?no
 have you seen cartoon characters ?yes
 have you seen any wars ?no
 ```
-output : 
+output **(k=1)** : 
 
 **You Film Is Classified as :  Animation , by :  67 %**
 
