@@ -6,7 +6,7 @@ Simple implementation of KNN Algorithm, COS Similarity, Logistic Regression in P
 ----------------------
 
 ## Classification :
-using the k-Nearest Neighbors Algorithm **(KNN)** to classify films to it's genres bu asking some questions :
+using the k-Nearest Neighbors Algorithm **(KNN)** to classify films to it's genres by asking some questions :
 
 ##### Example :
 ```
